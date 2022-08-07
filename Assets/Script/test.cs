@@ -7,9 +7,9 @@ public class test : MonoBehaviour
 
     private bool testVar;
 
-    private void doSomething()
+    private void doSomethingElse()
     {
-        testVar = false;
+        testVar = true;
     }
 
 }
