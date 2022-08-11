@@ -357,6 +357,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
+
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -411,6 +412,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: Server
+
     maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
@@ -423,6 +425,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: Android
+
     maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2639,6 +2642,7 @@ TextureImporter:
       tileset-sliced_94: 21300188
       tileset-sliced_91: 21300182
       tileset-sliced_28: 21300056
+
       tileset-sliced_83: 21300166
       tileset-sliced_20: 21300040
       tileset-sliced_16: 21300032
